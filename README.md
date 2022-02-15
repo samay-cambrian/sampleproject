@@ -1,1 +1,1 @@
-# sampleproject
+# Sample Database Application
